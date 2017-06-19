@@ -1,11 +1,13 @@
 # SODING: INDIVIDUAL ASSIGNMENT
-A simple task manager system (web based) using MVC
+This is an implementation for a simple task manager system (web based) using MVC
 
 Prgramming Language: C#
 
 Database: Sqlite
 
-Development Technique: The system implemented using scaffold technique
+.Net Framework: 4.6
+
+Development Technique: Scaffold technique for CodeFirst
 
 ...............................................
 
